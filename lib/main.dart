@@ -1,9 +1,9 @@
 import 'dart:developer';
 
 import 'package:easy_localization/easy_localization.dart';
-import 'package:single_ecommerce/loading_api_screen.dart';
-import 'package:single_ecommerce/onboarding/onboarding.dart';
-import 'package:single_ecommerce/pages/Home/Homepage.dart';
+import 'package:firsttest/loading_api_screen.dart';
+import 'package:firsttest/onboarding/onboarding.dart';
+import 'package:firsttest/pages/Home/Homepage.dart';
 // import 'package:firebase_core/firebase_core.dart';
 // import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
@@ -13,10 +13,10 @@ import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:get/get.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/theme/mythemes.dart';
-import 'package:single_ecommerce/theme/thememodel.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/translation/codegen_loader.g.dart';
+import 'package:firsttest/theme/mythemes.dart';
+import 'package:firsttest/theme/thememodel.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/translation/codegen_loader.g.dart';
 import 'package:sizer/sizer.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 

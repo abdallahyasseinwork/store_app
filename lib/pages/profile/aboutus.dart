@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:sizer/sizer.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 

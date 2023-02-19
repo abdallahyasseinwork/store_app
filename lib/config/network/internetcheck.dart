@@ -2,7 +2,7 @@
 
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:single_ecommerce/widgets/loader.dart';
+import 'package:firsttest/widgets/loader.dart';
 
 class internet {
   static bool isoffline = false;

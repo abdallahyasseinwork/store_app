@@ -4,12 +4,12 @@ import 'package:dio/dio.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart' hide Trans;
-import 'package:single_ecommerce/model/settings/blogsmodel.dart';
-import 'package:single_ecommerce/common%20class/allformater.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
-import 'package:single_ecommerce/config/api/api.dart';
-import 'package:single_ecommerce/pages/profile/blogdetails.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/model/settings/blogsmodel.dart';
+import 'package:firsttest/common%20class/allformater.dart';
+import 'package:firsttest/common%20class/color.dart';
+import 'package:firsttest/config/api/api.dart';
+import 'package:firsttest/pages/profile/blogdetails.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:sizer/sizer.dart';
 
 class Blogspage extends StatefulWidget {

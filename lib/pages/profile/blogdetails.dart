@@ -3,8 +3,8 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart' hide Trans;
-import 'package:single_ecommerce/common%20class/allformater.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/common%20class/allformater.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:sizer/sizer.dart';
 
 class Blogsdetailspage extends StatefulWidget {

@@ -9,12 +9,12 @@ import 'package:geocoding/geocoding.dart';
 import 'package:get/get.dart' hide Trans;
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-import 'package:single_ecommerce/common%20class/engString.dart';
-import 'package:single_ecommerce/pages/Home/search.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/common%20class/engString.dart';
+import 'package:firsttest/pages/Home/search.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 
 import 'package:sizer/sizer.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
+import 'package:firsttest/common%20class/color.dart';
 import 'confirm location.dart';
 import 'manage address.dart';
 import 'package:geolocator/geolocator.dart';

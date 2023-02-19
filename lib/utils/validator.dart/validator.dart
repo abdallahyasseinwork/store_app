@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_is_empty, unused_local_variable, unnecessary_null_comparison
 
 import 'package:easy_localization/easy_localization.dart';
-import 'package:single_ecommerce/widgets/loader.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/widgets/loader.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 
 class Validators {
   static String? validateName(String value, String type) {

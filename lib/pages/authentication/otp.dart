@@ -4,18 +4,18 @@
 // import 'package:dio/dio.dart';
 // //import 'package:firebase_messaging/firebase_messaging.dart';
 // import 'package:flutter/material.dart';
-// import 'package:single_ecommerce/model/authentication/Loginmodel.dart';
-// import 'package:single_ecommerce/model/favorite/addtocartmodel.dart';
-// import 'package:single_ecommerce/model/authentication/otpsucessdata.dart';
-// import 'package:single_ecommerce/widgets/loader.dart';
+// import 'package:firsttest/model/authentication/Loginmodel.dart';
+// import 'package:firsttest/model/favorite/addtocartmodel.dart';
+// import 'package:firsttest/model/authentication/otpsucessdata.dart';
+// import 'package:firsttest/widgets/loader.dart';
 // import 'package:easy_localization/easy_localization.dart';
-// import 'package:single_ecommerce/common%20class/color.dart';
-// import 'package:single_ecommerce/common%20class/prefs_name.dart';
-// import 'package:single_ecommerce/config/api/api.dart';
-// import 'package:single_ecommerce/pages/Home/Homepage.dart';
+// import 'package:firsttest/common%20class/color.dart';
+// import 'package:firsttest/common%20class/prefs_name.dart';
+// import 'package:firsttest/config/api/api.dart';
+// import 'package:firsttest/pages/Home/Homepage.dart';
 // import 'package:shared_preferences/shared_preferences.dart';
-// import 'package:single_ecommerce/translation/locale_keys.g.dart';
-// import 'package:single_ecommerce/utils/validator.dart/validator.dart';
+// import 'package:firsttest/translation/locale_keys.g.dart';
+// import 'package:firsttest/utils/validator.dart/validator.dart';
 // import 'package:sizer/sizer.dart';
 
 // class Otp extends StatefulWidget {

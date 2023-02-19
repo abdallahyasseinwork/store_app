@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
+import 'package:firsttest/common%20class/color.dart';
 
 class MyThemes {
   static final DarkTheme = ThemeData(

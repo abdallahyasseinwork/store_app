@@ -1,7 +1,7 @@
 // ignore_for_file: camel_case_types, no_leading_underscores_for_local_identifiers, prefer_typing_uninitialized_variables, unused_local_variable, avoid_print
 
 import 'package:location/location.dart';
-import 'package:single_ecommerce/common%20class/engString.dart';
+import 'package:firsttest/common%20class/engString.dart';
 
 class location_permission {
   static const int ispermission = 0;

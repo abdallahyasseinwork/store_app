@@ -1,4 +1,4 @@
-name: single_ecommerce
+name: firsttest
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -83,7 +83,9 @@ dependencies:
   lottie: ^2.2.0
   change_app_package_name: ^0.1.3
   flutter_launcher_icons: "^0.11.0"
-  flutter_rename_app_plus:
+  app_rename: ^0.0.1
+
+
   
   
 
@@ -97,6 +99,10 @@ flutter_icons:
   android: true
   ios: true
   image_path: "assets/Icons/ic_logo.png"
+
+
+
+
 
 dev_dependencies:
   flutter_test:

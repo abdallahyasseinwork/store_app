@@ -3,7 +3,7 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../common class/Allformater.dart';

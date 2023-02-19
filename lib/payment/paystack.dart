@@ -14,10 +14,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_paystack/flutter_paystack.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/model/settings/addwalletMODEL.dart';
-import 'package:single_ecommerce/widgets/loader.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/config/api/api.dart';
+import 'package:firsttest/model/settings/addwalletMODEL.dart';
+import 'package:firsttest/widgets/loader.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/config/api/api.dart';
 import 'package:http/http.dart' as http;
 import 'package:sizer/sizer.dart';
 

@@ -7,11 +7,11 @@ import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:lottie/lottie.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/config/api/api.dart';
-import 'package:single_ecommerce/constants.dart';
-import 'package:single_ecommerce/model/base_api_model.dart';
-import 'package:single_ecommerce/onboarding/onboarding.dart';
-import 'package:single_ecommerce/pages/Home/Homepage.dart';
+import 'package:firsttest/config/api/api.dart';
+import 'package:firsttest/constants.dart';
+import 'package:firsttest/model/base_api_model.dart';
+import 'package:firsttest/onboarding/onboarding.dart';
+import 'package:firsttest/pages/Home/Homepage.dart';
 
 import 'common class/prefs_name.dart';
 

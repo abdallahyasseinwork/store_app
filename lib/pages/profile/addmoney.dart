@@ -3,10 +3,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:easy_localization/easy_localization.dart';
-import 'package:single_ecommerce/common class/color.dart';
-import 'package:single_ecommerce/common%20class/height.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
-import 'package:single_ecommerce/utils/validator.dart/validator.dart';
+import 'package:firsttest/common class/color.dart';
+import 'package:firsttest/common%20class/height.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
+import 'package:firsttest/utils/validator.dart/validator.dart';
 import 'package:sizer/sizer.dart';
 
 import 'payment.dart';

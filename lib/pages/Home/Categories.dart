@@ -3,9 +3,9 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart' hide Trans;
-import 'package:single_ecommerce/model/home/homescreenmodel.dart';
-import 'package:single_ecommerce/pages/Home/categoriesinfo.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/model/home/homescreenmodel.dart';
+import 'package:firsttest/pages/Home/categoriesinfo.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:sizer/sizer.dart';
 
 class Categoriespage extends StatefulWidget {

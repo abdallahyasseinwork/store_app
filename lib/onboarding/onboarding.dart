@@ -4,10 +4,10 @@ import 'package:dio/dio.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/model/authentication/tutorialmodel.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/config/api/api.dart';
+import 'package:firsttest/model/authentication/tutorialmodel.dart';
+import 'package:firsttest/common%20class/color.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/config/api/api.dart';
 import 'package:sizer/sizer.dart';
 
 import '../pages/Home/Homepage.dart';

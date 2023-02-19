@@ -1,6 +1,6 @@
 // ignore_for_file: camel_case_types, prefer_collection_literals
 
-import 'package:single_ecommerce/model/favorite/itemmodel.dart';
+import 'package:firsttest/model/favorite/itemmodel.dart';
 
 class favoritelistmodel {
   int? status;

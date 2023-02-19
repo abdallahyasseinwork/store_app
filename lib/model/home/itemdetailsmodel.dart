@@ -4,7 +4,7 @@
 
 import 'dart:developer';
 
-import 'package:single_ecommerce/model/favorite/itemmodel.dart';
+import 'package:firsttest/model/favorite/itemmodel.dart';
 
 class itemdetailsmodel {
   dynamic status;

@@ -1,9 +1,9 @@
 // ignore_for_file: file_names, camel_case_types, non_constant_identifier_names,  avoid_unnecessary_containers, prefer_const_constructors
 
 import 'package:easy_localization/easy_localization.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/common%20class/color.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 import 'package:flutter/material.dart';
 import 'package:share_plus/share_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';

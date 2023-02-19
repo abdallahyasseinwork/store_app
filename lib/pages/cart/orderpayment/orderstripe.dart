@@ -6,15 +6,15 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart' hide Trans;
 import 'package:easy_localization/easy_localization.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/model/cart/orderplaceMODEL.dart';
-import 'package:single_ecommerce/widgets/loader.dart';
-import 'package:single_ecommerce/common%20class/color.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/config/api/api.dart';
-import 'package:single_ecommerce/pages/cart/ordersucess.dart';
-import 'package:single_ecommerce/payment/stripe.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
-import 'package:single_ecommerce/utils/validator.dart/validator.dart';
+import 'package:firsttest/model/cart/orderplaceMODEL.dart';
+import 'package:firsttest/widgets/loader.dart';
+import 'package:firsttest/common%20class/color.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/config/api/api.dart';
+import 'package:firsttest/pages/cart/ordersucess.dart';
+import 'package:firsttest/payment/stripe.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
+import 'package:firsttest/utils/validator.dart/validator.dart';
 import 'package:sizer/sizer.dart';
 
 class orderstripe extends StatefulWidget {

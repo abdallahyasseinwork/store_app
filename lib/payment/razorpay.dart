@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:single_ecommerce/model/settings/addwalletMODEL.dart';
-import 'package:single_ecommerce/widgets/loader.dart';
-import 'package:single_ecommerce/common%20class/prefs_name.dart';
-import 'package:single_ecommerce/config/api/api.dart';
-import 'package:single_ecommerce/pages/profile/addmoney.dart';
+import 'package:firsttest/model/settings/addwalletMODEL.dart';
+import 'package:firsttest/widgets/loader.dart';
+import 'package:firsttest/common%20class/prefs_name.dart';
+import 'package:firsttest/config/api/api.dart';
+import 'package:firsttest/pages/profile/addmoney.dart';
 
 class razor_pay extends StatefulWidget {
   String? publickey;

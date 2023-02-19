@@ -4,9 +4,9 @@ import 'package:carousel_slider/carousel_slider.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart' hide Trans;
-import 'package:single_ecommerce/common%20class/color.dart';
-import 'package:single_ecommerce/config/api/api.dart';
-import 'package:single_ecommerce/translation/locale_keys.g.dart';
+import 'package:firsttest/common%20class/color.dart';
+import 'package:firsttest/config/api/api.dart';
+import 'package:firsttest/translation/locale_keys.g.dart';
 
 import 'package:sizer/sizer.dart';
 
