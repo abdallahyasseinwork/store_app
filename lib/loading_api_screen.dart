@@ -70,11 +70,12 @@ class _LoadingScreenState extends State<LoadingScreen> {
 
     PackageInfo packageInfo = await PackageInfo.fromPlatform();
 
+    log(packageInfo.packageName.toString());
     try{
 
  
     var response = await Dio().post(
-        "https://kenda-jo.online/api/central-domain",
+        "https://flyerall.net/api/central-domain",
         data: {
           "app_id" : packageInfo.packageName
         },

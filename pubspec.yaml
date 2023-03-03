@@ -91,14 +91,14 @@ dependencies:
 
 flutter_native_splash:
   color: "#215272"
-  image: Assets/Image/ic_logo.png
+  image: Assets/Image/ordersucess.png
   
 
 
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/Icons/ic_logo.png"
+  image_path: "Assets/Image/ordersucess.png"
 
 
 

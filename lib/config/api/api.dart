@@ -2,8 +2,9 @@
 
 class DefaultApi {
   // static String baseUrl = "https://single-ecommerce.gravityinfotech.net/";
-  static String baseUrl = "https://admin.kenda-jo.online/";
+  static String baseUrl = "https://flyerall.net/";
   static String appUrl = baseUrl + "api/";
+  
   static String environment = "sendbox";
 }
 

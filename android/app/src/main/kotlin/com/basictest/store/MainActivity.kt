@@ -1,4 +1,4 @@
-package com.firsttest.store
+package com.basictest.store
 
 import io.flutter.embedding.android.FlutterActivity
 
